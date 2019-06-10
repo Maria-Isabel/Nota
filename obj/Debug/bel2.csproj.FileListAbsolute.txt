@@ -1,0 +1,6 @@
+C:\Users\Lirian\source\repos\bel2\bin\Debug\bel2.exe.config
+C:\Users\Lirian\source\repos\bel2\bin\Debug\bel2.exe
+C:\Users\Lirian\source\repos\bel2\bin\Debug\bel2.pdb
+C:\Users\Lirian\source\repos\bel2\obj\Debug\bel2.csproj.CoreCompileInputs.cache
+C:\Users\Lirian\source\repos\bel2\obj\Debug\bel2.exe
+C:\Users\Lirian\source\repos\bel2\obj\Debug\bel2.pdb
